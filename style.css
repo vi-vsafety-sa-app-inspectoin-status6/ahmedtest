@@ -11,7 +11,7 @@
 
 body {
     font-family: "JF Flat Regular", sans-serif;
-    visibility: hidden; /* إخفاء النص حتى يتم تحميل الخط */
+   
 }
 body.font-loaded {
             visibility: visible; /* إظهار النص عند تحميل الخط */
